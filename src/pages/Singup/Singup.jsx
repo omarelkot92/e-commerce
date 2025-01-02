@@ -71,7 +71,7 @@ const navigate = useNavigate()
 
   });
 
-  
+  // hima
   return <> 
   <h1 className="text-xl text-slate-700 font-semibold mb-5"><i className='fa-regular fa-circle-user mr-2'></i> Register Now</h1>
   <form className="space-y-3" onSubmit={formik.handleSubmit}>
